@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/prog3_2024_2_templates.dir/main.cpp.o CMakeFiles/prog3_2024_2_templates.dir/Punto.cpp.o  -o prog3_2024_2_templates 

@@ -1,3 +1,0 @@
-/workspaces/prog3_2024_2_templates_functions/build/CMakeFiles/rebuild_cache.dir
-/workspaces/prog3_2024_2_templates_functions/build/CMakeFiles/edit_cache.dir
-/workspaces/prog3_2024_2_templates_functions/build/CMakeFiles/prog3_2024_2_templates.dir
