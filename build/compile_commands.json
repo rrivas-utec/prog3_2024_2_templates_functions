@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/prog3_2024_2_templates_functions/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++2a -o CMakeFiles/prog3_2024_2_templates.dir/main.cpp.o -c /workspaces/prog3_2024_2_templates_functions/main.cpp",
+  "file": "/workspaces/prog3_2024_2_templates_functions/main.cpp"
+},
+{
+  "directory": "/workspaces/prog3_2024_2_templates_functions/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++2a -o CMakeFiles/prog3_2024_2_templates.dir/Punto.cpp.o -c /workspaces/prog3_2024_2_templates_functions/Punto.cpp",
+  "file": "/workspaces/prog3_2024_2_templates_functions/Punto.cpp"
+}
+]
